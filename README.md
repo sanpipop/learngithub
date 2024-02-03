@@ -1,2 +1,2 @@
-# learngithub
+# learn-github
 github practice
